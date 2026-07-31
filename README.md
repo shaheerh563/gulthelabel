@@ -1,13 +1,7 @@
 # GUL THE LABEL
 
-A static concept storefront for an abaya brand surprise: romantic, polished, and shoppable.
+A static shopping experience for the abaya brand concept **GUL THE LABEL**.
 
-## Live site
+This site is ready for GitHub Pages. After uploading it to a public repository named `gulthelabel`, the included Pages workflow can publish it at:
 
-After GitHub Pages finishes deploying, the site should be available at:
-
-https://shaheerh563.github.io/gulthelabel/
-
-## Local preview
-
-Open `index.html` in a browser or serve the folder with any static web server.
+`https://shaheerh563.github.io/gulthelabel/`
